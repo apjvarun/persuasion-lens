@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="PersuasionLens Banner" width="100%">
+</p>
+
 # PersuasionLens
 
 AI-powered writing persuasiveness analyzer built on persuasion science — combining Aristotle's rhetorical framework (ethos, pathos, logos) with Cialdini's principles of influence.
