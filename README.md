@@ -64,7 +64,7 @@ The analyzer evaluates text across six dimensions:
 
 ## Background
 
-Inspired by research on persuasiveness of user-authored content. The goal is to make persuasion science accessible and actionable for everyday writing.
+This project is inspired by peer-reviewed research on quantifying the persuasiveness of user-authored content, published at the International Workshop on Artificial Intelligence in Affective Computing (PMLR, 2019). See [Research Background](docs/research-background.md) for a deep dive into the science behind PersuasionLens and how it evolved from a statistical model analyzing 3 million consumer interactions into an LLM-powered real-time writing assistant.
 
 ## License
 
